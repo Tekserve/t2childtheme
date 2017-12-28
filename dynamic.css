@@ -1,0 +1,251 @@
+/* BEGIN tmq_css */
+/* =========================================== 
+    Unlimited Colors Setting                   
+ =========================================== */
+
+.header-logo {
+	background-color: rgba(68,68,68, 0.9);
+}
+#background-container {
+	background-color: #ffffff;
+}
+.woocommerce span.onsale, .woocommerce-page span.onsale, .services-post > a, .hover-item ul li a, .accord-content span.image-content, ul.tab-links li a:hover, ul.tab-links li a.active, .footer-line, .carousel-control.right:hover, .carousel-control.left:hover, .tp-rightarrow.default, .tp-leftarrow.default, .tp-bullets.simplebullets.round .bullet.selected:after, .tp-bullets.simplebullets.round .bullet:hover:after, .modern_medium_light, .meter > span, .staf-social li a:hover, .pricing-table.standard li, #wp-calendar caption, table thead, .flex-direction-nav .flex-next, .flex-direction-nav .flex-prev, .flex-control-paging li a:hover:before, .flex-control-paging li a.flex-active:before, .comment-content a.reply-comment, .wpcf7 input[type="submit"], .comment-form input[type="submit"], .author-buttons .biography, .author-buttons li:hover, .awesome-icons, .review-box .review-overall-rating, .list-rating .review-overall-rating, ul.page-numbers li a.active, ul.page-numbers li a:hover, ul.page-numbers li span, ul.filter li a.active, ul.filter li a:hover, .tmq_button, .tmq_loading .wBall .wInnerBall {
+	background-color: #2b99d4;
+	background-color: rgb(43,153,212);
+}
+.top-line p span i, ul.social-icons li a i, a.read-more, a.read-more i, .accord-title h5 i, ul.tab-links li a i, .footer-widgets h4, ul.contact-list li a:hover i, div#footer-contact button, div#footer-contact button i, li.drop > a span:after, .footer-line a.go-top:before, .skills-progress p span, .staf-social li a i, .pricing-table.standard li:first-child p, .pricing-table.standard li:first-child span, .pricing-table.standard li a, .drop-caps p span, .drop-caps > span.icon, blockquote p, .sidebar .tagcloud a:hover, .footer-widgets .tagcloud a:hover, .tabs-widget ul.tab-links li a:hover, .tabs-widget ul.tab-links li a.active, .widget_search button i, .tabs-widget .tab-content ul li h6 a:hover, .widget a:hover, .widget_recent_comments ul .url, #wp-calendar tbody td a, a, a:hover, a:focus, .author-buttons .fa, .tag-list li a, .tag-list li a i, .review-box .review-rate, .list-rating .review-rate, .portfolio-navigation a:hover i, h1.head-404, .work-post-content span, .tmq_button.light, .tmq-list ul.posts-list li h6 a:hover, .widget .current_page_item a, .undernav-sidebar .widget h4 {
+	color: #2b99d4;
+}
+.woocommerce .products a.button  {
+	color: #2b99d4 !important;
+}
+.work-post-content span {
+	color: rgb(13,106,146);
+}
+.hover-box {
+	background-color: #2b99d4;
+	background-color: rgba(43,153,212, 0.8);
+}
+.carousel-control.right, .carousel-control.left {
+	background-color: #2b99d4;
+	background-color: rgba(43,153,212, 0.3);
+}
+.woocommerce .products a.button, .services-post > a:hover:after, .services-post > a:after, a.read-more, ul.contact-list li a:hover, div#footer-contact input[type="text"]:focus, div#footer-contact input[type="email"]:focus, div#footer-contact textarea:focus, ul.contact-list li a:hover:after, .tp-bullets.simplebullets.round .bullet, .tp-bullets.simplebullets.round .bullet:after, .staf-social li a, .drop-caps > span.icon, blockquote, .sidebar .tagcloud a:hover, .footer-widgets .tagcloud a:hover, .widget_search input[type="search"]:focus, .flex-control-paging li a, .flex-control-paging li a:before, .wpcf7 input[type="text"]:focus, .wpcf7 input[type="email"]:focus, .wpcf7 textarea:focus, .tag-list li a, .review-box .review-overall, .tmq_button, .tmq_button.light { 
+	border-color: #2b99d4;
+}
+.main-menu > li > a, a.elemadded { 
+	background-color: #2b99d4;
+	background-color: rgba(43,153,212, 0.9);
+	color: #ffffff;
+}
+.main-menu > li > a:after { 
+	background-color: #2b99d4;
+}
+.content-sections, .flexslider { 
+	background-color: #ffffff;
+}
+footer { 
+	background-color: #fdfdfd;
+}
+.footer-line { 
+	background-color: #2b99d4;
+}
+.tmq_toggle_bar .tmq_toggle_content { 
+	background-color: #303030;
+}
+.tmq_toggle_bar .tmq_toggle_switch { 
+	border-top-color: #303030;
+}
+.toggle-widgets, .toggle-widgets p { 
+	color: #dbdbdb;
+}
+.toggle-widgets h1, .toggle-widgets h2, .toggle-widgets h3, .toggle-widgets h4, .toggle-widgets h5, .toggle-widgets h6 { 
+	color: #ffffff;
+}
+.top-line { 
+	background-color: #ffffff;
+	background-color: rgba(255,255,255, 0.8);
+}
+
+
+.top-line p span, .top-line p span a.header-contact-link { 
+	color: #253135;
+}
+ul.drop-down li a { 
+	background-color: #ffffff;
+	background-color: rgba(255,255,255, 0.9);
+	color: #646464;
+}
+ul.drop-down li a:hover { 
+	background-color: #ffffff;
+	color: #000000;
+}
+.pricing-table.standard li { 
+	border-color: rgb(13,106,146);
+}
+.undernav-sidebar { 
+	background-color: rgba(255,255,255, 0.96);
+}
+/* Logo Positioning */
+	.header-logo {
+		padding-top: 50px;
+		padding-bottom: 50px;
+	}
+/* Banner Area Dynamic Height Control With Padding */
+	#page-banner {
+		padding-top: 50px;
+		padding-bottom: 41px;
+	}
+/* Set default font color for all paragraphs */
+	p, ul:not([class]) li, ol:not([class]) li {
+		color: #565656;
+	}
+/* Banner Area BG Setting */
+	#page-banner {
+		min-height:153px;
+		
+		
+					background: -moz-linear-gradient(left, #666666 0%, #999999 100%);
+					background: -webkit-gradient(left top, right top, color-stop(0%, #666666), color-stop(100%, #999999));
+					background: -webkit-linear-gradient(left, #666666 0%, #999999 100%);
+					background: -o-linear-gradient(left, #666666 0%, #999999 100%);
+					background: -ms-linear-gradient(left, #666666 0%, #999999 100%);
+					background: linear-gradient(to right, #666666 0%, #999999 100%);
+					filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#666666', endColorstr='#999999', GradientType=1 );
+				
+	}
+@media(min-width:992px){
+	.top-line { 
+		background-color: #ffffff;
+		background-color: rgba(255,255,255, 1);
+	}
+	#page-banner {
+		
+		position: fixed;
+		top:45px;
+		width: 100%;
+		z-index: 100;
+	}
+
+}
+
+
+
+/* Default Paragraph Font Setting */
+	* {
+		font-family: "open sans", "sans serif";
+	}
+	p, ul:not([class]) li, ol:not([class]) li {
+		font-family: "open sans", "sans serif";
+		font-size: 13px;
+		line-height: 22px;
+	}
+/* Menu Font Setting */
+	.main-menu > li > a, .main-menu > li > a span, ul.drop-down li a,  ul.drop-down li a span {
+		font-family: "open sans", "sans serif";
+	}
+	.main-menu > li > a {
+		font-size: 16px;
+	}
+	ul.drop-down li a {
+		font-size: 13px;
+	}
+	ul.drop-down {
+		width: 220px;
+	}
+	header {
+		width: 270px;
+	}
+	.inner-content {
+		padding-left: 270px;
+	}
+	.main-menu > li > a {
+		
+		padding-top: 15px;
+		padding-bottom: 15px;
+		
+	}
+@media(max-height:735px){
+	.main-menu > li > a {
+		height:7vh;
+		max-height:50px;
+		
+		padding-top: 4%;
+		padding-bottom: 5%;
+		
+	}
+	.header-logo{
+		max-height:20vh;
+	}
+}
+	ul.drop-down li a {
+		padding-top: 18px;
+		padding-bottom: 18px;
+	}
+	.main-menu > li > a {
+		text-transform: uppercase;
+	}
+	ul.drop-down li a {
+		text-transform: uppercase;
+	}
+/* Blog Typography Setting */
+	.news-item h2 {
+		font-size: 18px;
+	}
+	.single-post-content h1 {
+		font-size: 25px;
+	}
+/* Banner Area Typography Setting */
+	#page-banner h1, #page-banner span {
+		font-size: 34px;
+	}
+	#page-banner p {
+		font-size: 16px;
+	}
+	ul.breadcrumb {
+		font-size: 13px;
+	}
+/* Breadcrumb text format */
+	ul.breadcrumb {
+		text-transform: lowercase
+	}
+/* Headings Font Setting */
+	h1, h2, h3, h4, h5, h6 {
+		font-family: "open sans", "sans serif";
+	}
+	h1 {
+		font-size: 38px;
+	}
+	h2 {
+		font-size: 24px;
+	}
+	h3 {
+		font-size: 22px;
+	}
+	h4 {
+		font-size: 18px;
+	}
+	h5 {
+		font-size: 15px;
+	}
+	h6 {
+		font-size: 12px;
+	}
+/* Support 1600px+ Wide Screens */
+	@media (min-width: 1600px) {
+		header {
+			margin-left: -685px;
+		}
+		.container {
+			max-width: 1400px;
+			width: 1400px;
+		}
+	}
+/* Support 1900px+ Wide Screens */
+
+/* Turn off dots on bg image */
+	#background-container:after {
+		background: none;
+	}
+
+/* END tmq_css */
